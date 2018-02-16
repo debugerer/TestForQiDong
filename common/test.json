@@ -1,0 +1,169 @@
+{
+    "display": 1,
+    "adDate": "2017-06-10",
+    "adCount": 8,
+    "results": [
+        {
+            "adID": 0,
+            "languageCount": 3,
+            "adLanguageList": [
+                {
+                    "adLanguage": "zh",
+                    "bundleId": "com.hust.bigdipper.game.tower",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
+                    "imagePath": "http://code.taobao.org/svn/bootup/comm-zh.png"
+                },
+                {
+                    "adLanguage": "jp",
+                    "bundleId": "com.hust.bigdipper.game.tower",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
+                    "imagePath": "http://code.taobao.org/svn/bootup/comm-en.png"
+                },
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.bigdipper.game.tower",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
+                    "imagePath": "http://code.taobao.org/svn/bootup/comm-en.png"
+                }
+            ]
+        },
+        {
+            "adID": 1,
+            "languageCount": 3,
+            "adLanguageList": [
+                {
+                    "adLanguage": "zh",
+                    "bundleId": "com.hust.TrapWhite",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
+                    "imagePath": "http://code.taobao.org/svn/bootup/comm-zh.png"
+                },
+                {
+                    "adLanguage": "jp",
+                    "bundleId": "com.hust.TrapWhite",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
+                    "imagePath": "http://code.taobao.org/svn/bootup/1st-ad-jp.jpg"
+                },
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.TrapWhite",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
+                    "imagePath": "http://code.taobao.org/svn/bootup/comm-en.png"
+                }
+            ]
+        },
+        {
+            "adID": 2,
+            "languageCount": 3,
+            "adLanguageList": [
+                {
+                    "adLanguage": "zh",
+                    "bundleId": "com.hust.StripHer",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id455256615",
+                    "imagePath": "http://code.taobao.org/svn/bootup/piano2-ad-ch.jpg"
+                },
+                {
+                    "adLanguage": "jp",
+                    "bundleId": "com.hust.StripHer",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id455256615",
+                    "imagePath": "http://code.taobao.org/svn/bootup/piano2-ad-jp.jpg"
+                },
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.StripHer",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id455256615",
+                    "imagePath": "http://code.taobao.org/svn/bootup/piano2-ad-en.jpg"
+                }
+            ]
+        },
+        {
+            "adID": 3,
+            "languageCount": 2,
+            "adLanguageList": [
+                {
+                    "adLanguage": "zh",
+                    "bundleId": "com.hust.bookSisterCarrieFree",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id516631231",
+                    "imagePath": "http://code.taobao.org/svn/bootup/aa-zh.png"
+                },
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.bookSisterCarrieFree",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id516631231",
+                    "imagePath": "http://code.taobao.org/svn/bootup/aa-en.png"
+                }
+            ]
+        },
+        {
+            "adID": 4,
+            "languageCount": 2,
+            "adLanguageList": [
+                {
+                    "adLanguage": "zh",
+                    "bundleId": "com.hust.beautyGuessGameFree",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id442717674",
+                    "imagePath": "http://code.taobao.org/svn/bootup/face-zh.png"
+                },
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.beautyGuessGameFree",
+                    "trackViewUrl": "itms-apps: //itunes.apple.com/app/id442717674",
+                    "imagePath": "http: //code.taobao.org/svn/bootup/face-en.png"
+                }
+            ]
+        },
+        {
+            "adID": 5,
+            "languageCount": 2,
+            "adLanguageList": [
+                {
+                    "adLanguage": "zh",
+                    "bundleId": "com.hust.howold",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id438973146",
+                    "imagePath": "http://code.taobao.org/svn/bootup/face-zh.png"
+                },
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.howold",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id438973146",
+                    "imagePath": "http://code.taobao.org/svn/bootup/face-en.png"
+                }
+            ]
+        },
+        {
+            "adID": 6,
+            "languageCount": 2,
+            "adLanguageList": [
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.diffcolor",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id963724609",
+                    "imagePath": "http://code.taobao.org/svn/bootup/diff-color-ad-en.png"
+                },
+                {
+                    "adLanguage": "zh",
+                    "bundleId": "com.hust.diffcolor",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id963724609",
+                    "imagePath": "http://code.taobao.org/svn/bootup/diff-color-ad-ch.png"
+                }
+            ]
+        },
+        {
+            "adID": 7,
+            "languageCount": 2,
+            "adLanguageList": [
+                {
+                    "adLanguage": "zh",
+                    "bundleId": "com.hust.GirlSecrets",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id446656042",
+                    "imagePath": "http://code.taobao.org/svn/bootup/comm-zh.png"
+                },
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.GirlSecrets",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id446656042",
+                    "imagePath": "http://code.taobao.org/svn/bootup/comm-en.png"
+                }
+            ]
+        }
+    ]
+}
