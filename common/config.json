@@ -1,32 +1,8 @@
 {
-    "display": 0,
+    "display": 1,
     "adDate": "2017-12-01",
     "adCount": 8,
     "results": [
-        {
-            "adID": 0,
-            "languageCount": 3,
-            "adLanguageList": [
-                {
-                    "adLanguage": "zh",
-                    "bundleId": "com.hust.bigdipper.game.tower",
-                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
-                    "imagePath": "http://code.taobao.org/svn/bootup/comm-zh.png"
-                },
-                {
-                    "adLanguage": "jp",
-                    "bundleId": "com.hust.bigdipper.game.tower",
-                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
-                    "imagePath": "http://code.taobao.org/svn/bootup/comm-en.png"
-                },
-                {
-                    "adLanguage": "en",
-                    "bundleId": "com.hust.bigdipper.game.tower",
-                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
-                    "imagePath": "http://code.taobao.org/svn/bootup/comm-en.png"
-                }
-            ]
-        },
         {
             "adID": 1,
             "languageCount": 3,
@@ -35,22 +11,48 @@
                     "adLanguage": "zh",
                     "bundleId": "com.hust.TrapWhite",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
-                    "imagePath": "http://code.taobao.org/svn/bootup/comm-zh.png"
+                    "imagePath": "http://github.com/debugerer/TestForQiDong/tree/master/common/comm-zh.png"
                 },
                 {
                     "adLanguage": "jp",
                     "bundleId": "com.hust.TrapWhite",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
-                    "imagePath": "http://code.taobao.org/svn/bootup/1st-ad-jp.jpg"
+                    "imagePath": "https://github.com/debugerer/TestForQiDong/tree/master/common/comm-en.png"
                 },
                 {
                     "adLanguage": "en",
                     "bundleId": "com.hust.TrapWhite",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
-                    "imagePath": "http://code.taobao.org/svn/bootup/comm-en.png"
+                    "imagePath": "https://github.com/debugerer/TestForQiDong/tree/master/common/comm-en.png"
                 }
             ]
         },
+
+        {
+            "adID": 0,
+            "languageCount": 3,
+            "adLanguageList": [
+                {
+                    "adLanguage": "zh",
+                    "bundleId": "com.hust.bigdipper.game.tower",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
+                    "imagePath": "http://github.com/debugerer/TestForQiDong/tree/master/common/comm-zh.png"
+                },
+                {
+                    "adLanguage": "jp",
+                    "bundleId": "com.hust.bigdipper.game.tower",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
+                    "imagePath": "http://github.com/debugerer/TestForQiDong/tree/master/common/comm-en.png"
+                },
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.bigdipper.game.tower",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
+                    "imagePath": "https://github.com/debugerer/TestForQiDong/tree/master/common/comm-en.png"
+                }
+            ]
+        },
+
         {
             "adID": 2,
             "languageCount": 3,
