@@ -1,6 +1,6 @@
 {
     "isShowBootupAd": 1,
-    "ConfigLoveEnable": 0,
+    "ConfigLoveEnable": 1,
     "ConfigRewardADPriority": 2,
     "ConfigRemoveADByIAP": 1
 }
