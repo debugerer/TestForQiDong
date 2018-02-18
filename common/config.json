@@ -1,54 +1,54 @@
 {
     "display": 1,
-    "adDate": "2017-12-01",
-    "adCount": 8,
+    "adDate": "2018-02-18",
+    "adCount": 2,
     "results": [
-        {
-            "adID": 1,
-            "languageCount": 3,
-            "adLanguageList": [
-                {
-                    "adLanguage": "zh",
-                    "bundleId": "com.hust.TrapWhite",
-                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
-                    "imagePath": "http://github.com/debugerer/TestForQiDong/tree/master/common/comm-zh.png"
-                },
-                {
-                    "adLanguage": "jp",
-                    "bundleId": "com.hust.TrapWhite",
-                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
-                    "imagePath": "https://github.com/debugerer/TestForQiDong/tree/master/common/comm-en.png"
-                },
-                {
-                    "adLanguage": "en",
-                    "bundleId": "com.hust.TrapWhite",
-                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
-                    "imagePath": "https://github.com/debugerer/TestForQiDong/tree/master/common/comm-en.png"
-                }
-            ]
-        },
-
         {
             "adID": 0,
             "languageCount": 3,
             "adLanguageList": [
                 {
                     "adLanguage": "zh",
+                    "bundleId": "com.hust.TrapWhite",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-zh.png"
+                },
+                {
+                    "adLanguage": "jp",
+                    "bundleId": "com.hust.TrapWhite",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-en.png"
+                },
+                {
+                    "adLanguage": "en",
+                    "bundleId": "com.hust.TrapWhite",
+                    "trackViewUrl": "itms-apps://itunes.apple.com/app/id868104566",
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-en.png"
+                }
+            ]
+        },
+
+        {
+            "adID": 1,
+            "languageCount": 3,
+            "adLanguageList": [
+                {
+                    "adLanguage": "zh",
                     "bundleId": "com.hust.bigdipper.game.tower",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
-                    "imagePath": "http://github.com/debugerer/TestForQiDong/tree/master/common/comm-zh.png"
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-zh.png"
                 },
                 {
                     "adLanguage": "jp",
                     "bundleId": "com.hust.bigdipper.game.tower",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
-                    "imagePath": "http://github.com/debugerer/TestForQiDong/tree/master/common/comm-en.png"
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-en.png"
                 },
                 {
                     "adLanguage": "en",
                     "bundleId": "com.hust.bigdipper.game.tower",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
-                    "imagePath": "https://github.com/debugerer/TestForQiDong/tree/master/common/comm-en.png"
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-en.png"
                 }
             ]
         },
