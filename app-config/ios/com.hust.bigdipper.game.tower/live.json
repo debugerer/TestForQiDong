@@ -3,6 +3,6 @@
     "ConfigLoveEnable": 0,
     "ConfigLoveLevel": 7,
     "ConfigLoveValue": 200,
-    "ConfigRewardADPriority": 0,
-    "ConfigRemoveADByIAP": 1
+    "ConfigRewardADPriority": 2,
+    "ConfigRemoveADByIAP": 0
 }
