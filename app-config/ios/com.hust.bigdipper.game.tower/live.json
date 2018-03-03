@@ -1,8 +1,8 @@
 {
-    "isShowBootupAd": 0,
+    "isShowBootupAd": 1,
     "ConfigLoveEnable": 0,
     "ConfigLoveLevel": 7,
     "ConfigLoveValue": 200,
     "ConfigRewardADPriority": 2,
-    "ConfigRemoveADByIAP": 0
+    "ConfigRemoveADByIAP": 1
 }
