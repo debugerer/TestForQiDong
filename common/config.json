@@ -1,6 +1,6 @@
 {
     "display": 1,
-    "adDate": "2018-02-22",
+    "adDate": "2018-11-14",
     "adCount": 2,
     "results": [
 
@@ -12,19 +12,19 @@
                     "adLanguage": "zh",
                     "bundleId": "com.hust.bigdipper.game.tower",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
-                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-zh.png"
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-zh.jpg"
                 },
                 {
                     "adLanguage": "jp",
                     "bundleId": "com.hust.bigdipper.game.tower",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
-                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-en.png"
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-en.jpg"
                 },
                 {
                     "adLanguage": "en",
                     "bundleId": "com.hust.bigdipper.game.tower",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id1242932224",
-                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-en.png"
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/comm-en.jpg"
                 }
             ]
         },
@@ -36,13 +36,13 @@
                     "adLanguage": "zh",
                     "bundleId": "com.hust.beautyGuessGameFree",
                     "trackViewUrl": "itms-apps://itunes.apple.com/app/id442717674",
-                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/face-zh.png"
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/face-zh.jpg"
                 },
                 {
                     "adLanguage": "en",
                     "bundleId": "com.hust.beautyGuessGameFree",
                     "trackViewUrl": "itms-apps: //itunes.apple.com/app/id442717674",
-                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/face-en.png"
+                    "imagePath": "https://raw.githubusercontent.com/debugerer/TestForQiDong/master/common/face-en.jpg"
                 }
             ]
         }
