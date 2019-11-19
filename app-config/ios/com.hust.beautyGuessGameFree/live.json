@@ -1,8 +1,8 @@
 {
-    "isShowBootupAd": 1,
+    "isShowBootupAd": 0,
     "ConfigLoveEnable": 0,
-    "ConfigRewardADPriority": 1,
-    "ConfigRemoveADByIAP": 0,
-    "ConfigPlayCountToRRRRFirst": 3,
+    "ConfigRewardADPriority": 3,
+    "ConfigRemoveADByIIIAAAPPP": 0,
+    "ConfigPlayCountToRRRRFirst": 6,
     "ConfigPlayCountToRRRRGap": 6
 }
