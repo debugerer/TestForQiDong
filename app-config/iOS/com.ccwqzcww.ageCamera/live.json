@@ -1,7 +1,7 @@
 {
-    "isShowAd": false,
-    "minDaysForLove": 30,
-    "minLaunchesForLove": 6,
-    "remindDaysForLove": 30,
+    "isShowAd": true,
+    "minDaysForLove": 0,
+    "minLaunchesForLove": 5,
+    "remindDaysForLove": 0,
     "remindLaunchesForLove": 3
 }
